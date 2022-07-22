@@ -1,6 +1,6 @@
 # Game of Life
 
-![Game of Life preview](assets/preview.png)
+![Game of Life preview](assets/preview.gif)
 
 * [Introduction](#introduction)
 * [Goals](#goals)
