@@ -3,8 +3,8 @@
 ![Game of Life preview](assets/preview.png)
 
 * [Introduction](#introduction)
-* [Build](#build)
 * [Goals](#goals)
+* [Build](#build)
 * [How to Play](#how-to-play)
 
 ### Introduction
