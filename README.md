@@ -18,7 +18,7 @@
 ### Build
 
 ```
-$ git clone git.github.com:bezlant/s21_game_of_life.git
+$ git clone https://github.com/bezlant/s21_game_of_life
 $ cd s21_game_of_life/src
 $ make
 ```
